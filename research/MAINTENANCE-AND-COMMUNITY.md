@@ -1,6 +1,6 @@
 [Volver](README.md)
 
-## Mantenimiento y comunidad
+# Mantenimiento y comunidad
 
 Vue es uno de los web frameworks más utilizados actualmente. En nuestra investigación encontramos varios rankings, pero en la mayoría aparece dentro de los top 3, junto con Angular, React, entre otros.
 
